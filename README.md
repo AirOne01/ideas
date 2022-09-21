@@ -50,5 +50,5 @@ All the ideas i have as potential repos.
 * [ ] There would be a big feed of the latest news, tweets and videos
 
 ## The Great Timeline
-*A timeline website lisitn everyajor events in the VR industry*
+*A timeline website listing every major events in the VR industry*
 * [ ] Could replace nijunikai
