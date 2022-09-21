@@ -44,7 +44,11 @@ All the ideas i have as potential repos.
   * [X] Ventoy (original idea of the project)
   * [ ] DD
 
-## [nijunikai](https://github.com/nijunikai)
+## [nijunikai](https://github.com/AirOne01/nijunikai)
 *A site that lists the latest news in VR tech, and about the the metaverses*
 * [ ] It would have a big timeline of all the events that happened in the VR world
 * [ ] There would be a big feed of the latest news, tweets and videos
+
+## The Great Timeline
+*A timeline website lisitn everyajor events in the VR industry*
+* [ ] Could replace nijunikai
