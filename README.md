@@ -11,6 +11,12 @@ All the ideas i have as potential repos.
   * [ ] Take teachers' agendas into account
   * [ ] Prioritise no class in the morning
 
+## CrossProxy
+*A proxy allowing modifications and load-balancing of NeosVR servers. Like BungeeCord*
+
+## CrossNexus
+*A cross-platform compatibility tool based on CrossProxy*
+
 ## [inshelves](https://github.com/AirOne01/inshelves)
 *A desktop videogame library*
 * [ ] It would list all your games automatically
