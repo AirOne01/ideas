@@ -58,3 +58,10 @@ All the ideas i have as potential repos.
 ## The Great Timeline
 *A timeline website listing every major events in the VR industry*
 * [ ] Could replace nijunikai
+
+## SVG stats generator
+Generator of SVG concatening stats about github. The goal is to have everything in the same place.
+* [ ] Badges
+* [ ] Profile stats
+* [ ] Integrations
+* [ ] More integrations
