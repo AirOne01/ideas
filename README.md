@@ -11,8 +11,10 @@ All the ideas i have as potential repos.
   * [ ] Take teachers' agendas into account
   * [ ] Prioritise no class in the morning
 
-## CrossProxy
-*A proxy allowing modifications and load-balancing of NeosVR servers. Like BungeeCord*
+~~## CrossProxy~~
+~~*A proxy allowing modifications and load-balancing of NeosVR servers. Like BungeeCord*~~
+
+*NeosVR is pretty much abandonned*
 
 ## CrossNexus
 *A cross-platform compatibility tool based on CrossProxy*
