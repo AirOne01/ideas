@@ -1,6 +1,19 @@
 # AirOne01/ideas
 All the ideas i have as potential repos.
 
+## ScavKeys
+*Bind multiple actions to the same keys*
+* [ ] Bind multiple actions to the same key
+* [ ] Multiple ways to bind an action
+ * [ ] On short press ("toggle")
+ * [ ] On long press ("toggle as well")
+ * [ ] On stay pressed (e.g. sprint without toggle)
+ * [ ] On double click (e.g. sneaking toogle)
+* [ ] Visual key remapping
+* [ ] Controller support
+* [ ] Search through the keys
+* [ ] Default key layout (for modpacks)
+
 ## UCBL improved calendar
 *An improved agenda for UCBL's student calendars*
 * [ ] It would take notice of change made to the DB and save this history
