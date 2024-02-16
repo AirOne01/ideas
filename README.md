@@ -1,8 +1,15 @@
 # AirOne01/ideas
 All the ideas i have as potential repos.
 
+## RepoMaster
+*Download packages from any repo (AUR, pip, npm, etc...*
+
+## EzDash
+*Dashboard that integrates with anything*
+* [ ] Written in Qwik
+
 ## ScavKeys
-*Bind multiple actions to the same keys*
+*MC mod to bind multiple actions to the same keys*
 * [ ] Bind multiple actions to the same key
 * [ ] Multiple ways to bind an action
  * [ ] On short press ("toggle")
