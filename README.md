@@ -4,6 +4,14 @@ All the ideas i have as potential repos.
 ## RepoMaster
 *Download packages from any repo (AUR, pip, npm, etc...*
 
+## --no name--
+*Tool to automate string formatting from the terminal*
+* [ ] Make tables
+* [ ] Make columns
+* [ ] Sort
+* [ ] Auto color
+* [ ] ~Parsing of JSON~ (nope, jq already does it)
+
 ## EzDash
 *Dashboard that integrates with anything*
 * [ ] Written in Qwik
