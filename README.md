@@ -1,11 +1,26 @@
 # AirOne01/ideas
 All the ideas i have as potential repos.
 
-## RepoMaster
-*Download packages from any repo (AUR, pip, npm, etc...*
+## AllStatus?
+*Webpage with live status of all important websites, CDNs, etc...*
+
+## --no name--
+*Self-hosted dashboard to keep track of multiple self-hosted services*
+* [ ] PM2
+* [ ] Docker
+* [ ] Docker Compose
+* [ ] Github Actions
+* [ ] Gitlab pipeline
+* [ ] Gitlab (self-managed) pipeline
+* [ ] Jenkins
+* [ ] Jenkins (self-hosted)
+* [ ] Vercel
 
 ## instances.tld
 *Website listing mirrors and instances*
+
+## RepoMaster
+*Download packages from any repo (AUR, pip, npm, etc...*
 
 ## --no name--
 *Tool to automate string formatting from the terminal*
