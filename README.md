@@ -4,6 +4,9 @@ All the ideas i have as potential repos.
 ## RepoMaster
 *Download packages from any repo (AUR, pip, npm, etc...*
 
+## instances.tld
+*Website listing mirrors and instances*
+
 ## --no name--
 *Tool to automate string formatting from the terminal*
 * [ ] Make tables
